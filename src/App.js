@@ -1,9 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import './components/home';
+
+
 
 function App() {
   return (
-   <h1>Helloooo</h1>
+   <home/>
   );
 }
 
